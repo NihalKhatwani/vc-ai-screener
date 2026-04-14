@@ -1,0 +1,59 @@
+Opportunity name: Project Northbridge
+Transaction type: GP-led continuation vehicle
+Seller type: Existing LPs in Alder Ridge Capital Fund IV, with the sponsor leading a continuation process
+Manager / sponsor: Alder Ridge Capital, a 2016-vintage mid-market buyout manager focused on vertical software and business services
+Existing fund: Alder Ridge Capital Fund IV
+Portfolio / asset: ComplianceCloud, a provider of regulatory workflow software for insurance brokers and carriers in the US and UK
+
+What is being sold:
+- A new continuation vehicle would acquire 92% of ComplianceCloud from Fund IV.
+- Existing LPs can elect to sell for cash or roll into the new vehicle.
+- The lead buyer is being asked to anchor the transaction with an approximate $180M equity check, with the remainder syndicated to existing and new investors.
+
+Why seller is transacting:
+- Fund IV is beyond its original hold period.
+- The sponsor believes the asset still has additional runway and wants more time to execute the next phase of value creation.
+- The process is described as primarily a liquidity solution for existing LPs rather than a distressed sale.
+
+Use of proceeds:
+- Provide liquidity to selling LPs.
+- Establish a modest reserve for tuck-in M&A and product expansion.
+
+Valuation framing:
+- Deal priced at 15.5x LTM EBITDA.
+- Sponsor argues public software peers and recent private transactions support 16.5x-18.0x for similar assets.
+- No third-party valuation materials are included in the teaser.
+
+Company financials:
+- FY2025 revenue: $78M
+- FY2025 EBITDA: $26M
+- Revenue CAGR since 2022: 17%
+- Recurring revenue: 84%
+- Gross revenue retention: 95%
+- Net revenue retention: 111%
+- The teaser describes strong cash conversion but does not provide a formal QoE.
+
+Business quality and growth plan:
+- ComplianceCloud provides regulatory workflow software used by insurance brokers and carriers.
+- The product is positioned as mission-critical because customers rely on it for compliance-heavy operating workflows.
+- Growth plan centers on expanding carrier-side modules, increasing wallet share in existing broker accounts, and completing 1-2 tuck-in acquisitions over the next 24 months.
+
+Concentration and exposure:
+- Single-asset transaction.
+- Top 10 customers represent 28% of revenue.
+- Largest customer represents 6% of revenue.
+- Geography split is roughly 72% US and 28% UK.
+
+GP alignment and track record:
+- Sponsor rolling 100% of carry and approximately 35% of gross proceeds into the continuation vehicle.
+- Prior Alder Ridge funds reported net multiples of 1.8x, 2.2x, and 1.9x.
+- Fund IV is currently marked at 1.6x gross MOIC.
+
+Current diligence gaps:
+- No third-party quality of earnings report in the teaser.
+- No detailed churn cohorts by customer size.
+- No product diligence materials yet.
+- Limited information on the acquisition pipeline.
+
+Remaining unfunded commitments:
+- None, other than a proposed reserve inside the continuation vehicle.

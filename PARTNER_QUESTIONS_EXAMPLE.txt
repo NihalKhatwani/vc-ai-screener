@@ -1,0 +1,4 @@
+- Is the entry pricing truly attractive once single-asset concentration is considered?
+- What downside case exists if growth slows and the exit multiple compresses?
+- How strong is sponsor alignment, and what governance rights would the lead buyer receive?
+- Which missing diligence items could most quickly change the recommendation from Explore to Pass?
