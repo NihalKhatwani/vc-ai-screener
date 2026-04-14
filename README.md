@@ -2,46 +2,6 @@
 
 A lightweight AI-assisted workflow for **mid-market private equity secondaries screening**.
 
-This project takes a deal teaser, LP portfolio summary, continuation vehicle note, or messy diligence notes and turns them into a **first-pass secondaries screening memo** with:
-
-- transaction type and seller motivation
-- portfolio or asset snapshot
-- top exposures and concentration flags
-- pricing observations
-- structuring considerations
-- red flags and data gaps
-- diligence questions
-- an initial recommendation
-
-It is designed to feel like actual **secondaries investing internship work**, not a generic chatbot demo.
-
----
-
-## Why this project is relevant for a mid-market secondaries fund
-
-A secondaries investor is not underwriting a seed-stage startup from scratch. The work is much more about:
-
-- screening deal teasers quickly
-- distinguishing LP-led from GP-led opportunities
-- understanding seller motivation and liquidity context
-- summarizing portfolio composition and concentration
-- pressure-testing pricing support and downside
-- surfacing diligence gaps before deeper work starts
-
-This repo is built around exactly that workflow.
-
-The model does the first-pass structuring. The analyst still owns:
-
-- what source materials are trustworthy
-- whether pricing is actually compelling
-- how much concentration risk is acceptable
-- whether the sponsor is high quality and aligned
-- whether the deal fits the fund's mandate
-
-That is the right way to talk about AI in a secondaries interview: **a synthesis tool, not an underwriting substitute**.
-
----
-
 ## What the app does
 
 ### Input
