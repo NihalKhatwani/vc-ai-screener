@@ -20,7 +20,7 @@ The app generates:
 
 ### Delivery surfaces
 - **CLI** for fast demos and reproducible outputs
-- **Streamlit app** for a cleaner presentation during interviews
+- **Streamlit app** for a cleaner presentation
 
 ---
 
